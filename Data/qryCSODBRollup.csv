@@ -1,0 +1,460 @@
+Year,txtDSN,txtCSO,SumOfnumVolume,Events,txtWaterBody
+1996,003,Ballard,1380000.00,5,Lake Washington Ship Canal
+1996,004,11th Ave. NW,2010000.00,1,Lake Washington Ship Canal
+1996,006,Magnolia S,28260000.00,26,Elliott Bay/Puget Sound
+1996,007,Canal St.,580000.00,1,Lake Washington Ship Canal
+1996,008,3rd Ave. W,31470000.00,4,Lake Washington Ship Canal
+1996,009,Dexter,28080000.00,12,Lake Union
+1996,012,Belvoir,190000.00,2,Lake Washington
+1996,013,MLK Jr. Way,137310000.00,12,Lake Washington
+1996,014,Montlake,81110000.00,6,Lake Washington Ship Canal
+1996,015,University,443250000.00,5,Lake Washington Ship Canal
+1996,028,King Street,18030000.00,7,Elliott Bay/Puget Sound
+1996,029,Kingdome,60820000.00,4,Elliott Bay/Puget Sound
+1996,030,Lander St.,121000000.00,3,Duwamish River/East Waterway
+1996,031a,Hanford @ Rainier,185050000.00,12,Duwamish River/East Waterway
+1996,032,Hanford #2,63020000.00,4,Duwamish River/East Waterway
+1996,036,Chelan,41690000.00,6,Duwamish River/West Waterway
+1996,037,Harbor Ave.,440000.00,3,Duwamish River/West Waterway
+1996,040,8th Ave./W Marginal Way,3760000.00,1,Duwamish River
+1996,041,Brandon St.,38760001.00,29,Duwamish River
+1996,042,Michigan W,3750000.00,4,Duwamish River
+1996,044a,Norfolk St.,47820000.00,6,Duwamish River
+1996,045,Henderson,11300000.00,1,Lake Washington
+1996,048b,North Beach Inlet,12620000.00,15,Puget Sound
+1996,27a-1,Denny Way Local,27460000.00,18,Elliott Bay/Puget Sound
+1996,27a-2,Denny Way Lake Union,60340000.00,27,Elliott Bay/Puget Sound
+1996,27a-3,Interbay,74520000.00,5,Elliott Bay/Puget Sound
+1997,003,Ballard,5180000.00,8,Lake Washington Ship Canal
+1997,004,11th Ave. NW,8760400.00,21,Lake Washington Ship Canal
+1997,006,Magnolia S,12425600.00,31,Elliott Bay/Puget Sound
+1997,007,Canal St.,80000.00,1,Lake Washington Ship Canal
+1997,008,3rd Ave. W,7460000.00,9,Lake Washington Ship Canal
+1997,009,Dexter,48770000.00,21,Lake Union
+1997,012,Belvoir,180000.00,1,Lake Washington
+1997,013,MLK Jr. Way,82960000.00,20,Lake Washington
+1997,014,Montlake,6990000.00,2,Lake Washington Ship Canal
+1997,015,University,142790000.00,9,Lake Washington Ship Canal
+1997,028,King Street,24330000.00,18,Elliott Bay/Puget Sound
+1997,029,Kingdome,43880000.00,11,Elliott Bay/Puget Sound
+1997,030,Lander St.,29740000.00,12,Duwamish River/East Waterway
+1997,031a,Hanford @ Rainier,75660000.00,14,Duwamish River/East Waterway
+1997,032,Hanford #2,120900000.00,17,Duwamish River/East Waterway
+1997,036,Chelan,5750000.00,8,Duwamish River/West Waterway
+1997,037,Harbor Ave.,340.00,1,Duwamish River/West Waterway
+1997,041,Brandon St.,49830122.00,40,Duwamish River
+1997,042,Michigan W,3390000.00,6,Duwamish River
+1997,044a,Norfolk St.,19220000.00,15,Duwamish River
+1997,045,Henderson,3600000.00,9,Lake Washington
+1997,048b,North Beach Inlet,6877200.00,19,Puget Sound
+1997,27a-1,Denny Way Local,46780000.00,31,Elliott Bay/Puget Sound
+1997,27a-2,Denny Way Lake Union,179420000.00,49,Elliott Bay/Puget Sound
+1997,27a-3,Interbay,79410000.00,16,Elliott Bay/Puget Sound
+1998,003,Ballard,17750.00,4,Lake Washington Ship Canal
+1998,004,11th Ave. NW,12513000.00,10,Lake Washington Ship Canal
+1998,006,Magnolia S,3710000.00,21,Elliott Bay/Puget Sound
+1998,007,Canal St.,160600.00,2,Lake Washington Ship Canal
+1998,008,3rd Ave. W,5370000.00,8,Lake Washington Ship Canal
+1998,009,Dexter,17090000.00,13,Lake Union
+1998,012,Belvoir,50000.00,1,Lake Washington
+1998,013,MLK Jr. Way,37140000.00,21,Lake Washington
+1998,014,Montlake,11550000.00,7,Lake Washington Ship Canal
+1998,015,University,85052710.00,10,Lake Washington Ship Canal
+1998,028,King Street,39801650.00,14,Elliott Bay/Puget Sound
+1998,029,Kingdome,11610000.00,3,Elliott Bay/Puget Sound
+1998,030,Lander St.,79310000.00,10,Duwamish River/East Waterway
+1998,031a,Hanford @ Rainier,24920000.00,17,Duwamish River/East Waterway
+1998,032,Hanford #2,221900000.00,17,Duwamish River/East Waterway
+1998,036,Chelan,3620799.00,5,Duwamish River/West Waterway
+1998,037,Harbor Ave.,700.00,1,Duwamish River/West Waterway
+1998,041,Brandon St.,67160000.00,29,Duwamish River
+1998,042,Michigan W,1700000.00,7,Duwamish River
+1998,044a,Norfolk St.,7050000.00,7,Duwamish River
+1998,045,Henderson,890000.00,4,Lake Washington
+1998,048b,North Beach Inlet,3240000.00,13,Puget Sound
+1998,27a-1,Denny Way Local,97970000.00,41,Elliott Bay/Puget Sound
+1998,27a-2,Denny Way Lake Union,327090000.00,55,Elliott Bay/Puget Sound
+1998,27a-3,Interbay,70510000.00,20,Elliott Bay/Puget Sound
+1999,003,Ballard,2170000.00,4,Lake Washington Ship Canal
+1999,004,11th Ave. NW,12199000.00,15,Lake Washington Ship Canal
+1999,006,Magnolia S,650000.00,5,Elliott Bay/Puget Sound
+1999,007,Canal St.,30000.00,1,Lake Washington Ship Canal
+1999,008,3rd Ave. W,7100000.00,9,Lake Washington Ship Canal
+1999,009,Dexter,6300000.00,11,Lake Union
+1999,013,MLK Jr. Way,9960000.00,10,Lake Washington
+1999,014,Montlake,1000000.00,2,Lake Washington Ship Canal
+1999,015,University,46300174.00,7,Lake Washington Ship Canal
+1999,028,King Street,32480000.00,14,Elliott Bay/Puget Sound
+1999,030,Lander St.,57850000.00,14,Duwamish River/East Waterway
+1999,031a,Hanford @ Rainier,7780000.00,5,Duwamish River/East Waterway
+1999,032,Hanford #2,323950000.00,18,Duwamish River/East Waterway
+1999,036,Chelan,3610000.00,7,Duwamish River/West Waterway
+1999,039,Michigan St.,15250000.00,10,Duwamish River
+1999,041,Brandon St.,24620000.00,32,Duwamish River
+1999,042,Michigan W,910000.00,4,Duwamish River
+1999,045,Henderson,20090000.00,32,Lake Washington
+1999,048b,North Beach Inlet,4940000.00,10,Puget Sound
+1999,27a-1,Denny Way Local,49500000.00,42,Elliott Bay/Puget Sound
+1999,27a-2,Denny Way Lake Union,419550000.00,67,Elliott Bay/Puget Sound
+1999,27a-3,Interbay,55580000.00,18,Elliott Bay/Puget Sound
+2000,003,Ballard,80000.00,2,Lake Washington Ship Canal
+2000,004,11th Ave. NW,4010000.00,4,Lake Washington Ship Canal
+2000,008,3rd Ave. W,490000.00,4,Lake Washington Ship Canal
+2000,009,Dexter,3423680.00,9,Lake Union
+2000,014,Montlake,280000.00,1,Lake Washington Ship Canal
+2000,028,King Street,8030000.00,10,Elliott Bay/Puget Sound
+2000,030,Lander St.,16180000.00,11,Duwamish River/East Waterway
+2000,032,Hanford #2,18730000.00,17,Duwamish River/East Waterway
+2000,034,Duwamish E,80000.00,1,Duwamish River
+2000,039,Michigan St.,4920000.00,9,Duwamish River
+2000,041,Brandon St.,18220000.00,28,Duwamish River
+2000,042,Michigan W,100000.00,1,Duwamish River
+2000,044a,Norfolk St.,10000.00,1,Duwamish River
+2000,045,Henderson,6700000.00,14,Lake Washington
+2000,048b,North Beach Inlet,600000.00,4,Puget Sound
+2000,27a-1,Denny Way Local,15910000.00,10,Elliott Bay/Puget Sound
+2000,27a-2,Denny Way Lake Union,141170000.00,26,Elliott Bay/Puget Sound
+2000,27a-3,Interbay,4200000.00,5,Elliott Bay/Puget Sound
+2001,003,Ballard,210000.00,2,Lake Washington Ship Canal
+2001,004,11th Ave. NW,7710000.00,12,Lake Washington Ship Canal
+2001,008,3rd Ave. W,1270000.00,14,Lake Washington Ship Canal
+2001,009,Dexter,20670000.00,13,Lake Union
+2001,015,University,22990000.00,5,Lake Washington Ship Canal
+2001,028,King Street,29470000.00,14,Elliott Bay/Puget Sound
+2001,030,Lander St.,86710000.00,11,Duwamish River/East Waterway
+2001,032,Hanford #2,93262810.00,9,Duwamish River/East Waterway
+2001,034,Duwamish E,30000.00,1,Duwamish River
+2001,036,Chelan,2070035.00,7,Duwamish River/West Waterway
+2001,037,Harbor Ave.,9490000.00,2,Duwamish River/West Waterway
+2001,039,Michigan St.,31390000.00,12,Duwamish River
+2001,041,Brandon St.,55620000.00,32,Duwamish River
+2001,042,Michigan W,1890000.00,8,Duwamish River
+2001,044a,Norfolk St.,770000.00,3,Duwamish River
+2001,045,Henderson,21040000.00,12,Lake Washington
+2001,048b,North Beach Inlet,2120000.00,11,Puget Sound
+2001,27a-1,Denny Way Local,70000.00,1,Elliott Bay/Puget Sound
+2001,27a-2,Denny Way Lake Union,246940000.00,42,Elliott Bay/Puget Sound
+2001,27a-3,Interbay,36440000.00,13,Elliott Bay/Puget Sound
+2002,003,Ballard,10000.00,1,Lake Washington Ship Canal
+2002,004,11th Ave. NW,6770000.00,8,Lake Washington Ship Canal
+2002,006,Magnolia S,2250000.00,5,Elliott Bay/Puget Sound
+2002,008,3rd Ave. W,220000.00,4,Lake Washington Ship Canal
+2002,009,Dexter,4720000.00,9,Lake Union
+2002,014,Montlake,4002465.00,5,Lake Washington Ship Canal
+2002,015,University,12220000.00,4,Lake Washington Ship Canal
+2002,028,King Street,16980000.00,12,Elliott Bay/Puget Sound
+2002,030,Lander St.,47730000.00,10,Duwamish River/East Waterway
+2002,031a,Hanford @ Rainier,2710000.00,3,Duwamish River/East Waterway
+2002,032,Hanford #2,77100000.00,11,Duwamish River/East Waterway
+2002,034,Duwamish E,20000.00,1,Duwamish River
+2002,036,Chelan,30000.00,2,Duwamish River/West Waterway
+2002,039,Michigan St.,10310000.00,8,Duwamish River
+2002,041,Brandon St.,22890000.00,21,Duwamish River
+2002,042,Michigan W,170417.00,5,Duwamish River
+2002,044a,Norfolk St.,180000.00,2,Duwamish River
+2002,045,Henderson,3170000.00,10,Lake Washington
+2002,048b,North Beach Inlet,670000.00,9,Puget Sound
+2002,27a-1,Denny Way Local,11830000.00,13,Elliott Bay/Puget Sound
+2002,27a-2,Denny Way Lake Union,164980000.00,30,Elliott Bay/Puget Sound
+2002,27a-3,Interbay,43120000.00,15,Elliott Bay/Puget Sound
+2003,003,Ballard,880000.00,4,Lake Washington Ship Canal
+2003,004,11th Ave. NW,6566200.00,8,Lake Washington Ship Canal
+2003,006,Magnolia S,39040000.00,18,Elliott Bay/Puget Sound
+2003,008,3rd Ave. W,1370000.00,6,Lake Washington Ship Canal
+2003,009,Dexter,33853330.00,15,Lake Union
+2003,012,Belvoir,1110000.00,2,Lake Washington
+2003,013,MLK Jr. Way,46190000.00,2,Lake Washington
+2003,014,Montlake,69570000.00,11,Lake Washington Ship Canal
+2003,015,University,90790000.00,4,Lake Washington Ship Canal
+2003,028,King Street,34920000.00,16,Elliott Bay/Puget Sound
+2003,030,Lander St.,293880000.00,12,Duwamish River/East Waterway
+2003,031a,Hanford @ Rainier,32550000.00,6,Duwamish River/East Waterway
+2003,032,Hanford #2,53520000.00,12,Duwamish River/East Waterway
+2003,034,Duwamish E,20000.00,1,Duwamish River
+2003,036,Chelan,3750000.00,3,Duwamish River/West Waterway
+2003,037,Harbor Ave.,12950000.00,2,Duwamish River/West Waterway
+2003,038,Terminal 115,4530000.00,2,Duwamish River
+2003,039,Michigan St.,56300000.00,9,Duwamish River
+2003,041,Brandon St.,54520000.00,28,Duwamish River
+2003,042,Michigan W,1580000.00,4,Duwamish River
+2003,044a,Norfolk St.,970000.00,2,Duwamish River
+2003,045,Henderson,14180000.00,21,Lake Washington
+2003,048b,North Beach Inlet,5300000.00,6,Puget Sound
+2003,054,63rd Ave,1470000.00,2,Puget Sound
+2003,056,Murray,5480000.00,3,Puget Sound
+2003,057,Barton,2390000.00,3,Puget Sound
+2003,27a-1,Denny Way Local,73630000.00,34,Elliott Bay/Puget Sound
+2003,27a-2,Denny Way Lake Union,221090000.00,36,Elliott Bay/Puget Sound
+2003,27a-3,Interbay,182310000.00,23,Elliott Bay/Puget Sound
+2004,003,Ballard,250000.00,2,Lake Washington Ship Canal
+2004,004,11th Ave. NW,1850000.00,6,Lake Washington Ship Canal
+2004,006,Magnolia S,14960000.00,17,Elliott Bay/Puget Sound
+2004,008,3rd Ave. W,16634799.00,4,Lake Washington Ship Canal
+2004,009,Dexter,45724000.00,8,Lake Union
+2004,012,Belvoir,230000.00,2,Lake Washington
+2004,013,MLK Jr. Way,11570000.00,4,Lake Washington
+2004,014,Montlake,34610000.00,5,Lake Washington Ship Canal
+2004,015,University,38170000.00,4,Lake Washington Ship Canal
+2004,028,King Street,21280000.00,15,Elliott Bay/Puget Sound
+2004,029,Kingdome,1260000.00,2,Elliott Bay/Puget Sound
+2004,030,Lander St.,35440000.00,9,Duwamish River/East Waterway
+2004,031a,Hanford @ Rainier,10200000.00,8,Duwamish River/East Waterway
+2004,032,Hanford #2,78230000.00,16,Duwamish River/East Waterway
+2004,036,Chelan,190000.00,1,Duwamish River/West Waterway
+2004,039,Michigan St.,9950000.00,6,Duwamish River
+2004,041,Brandon St.,17270000.00,21,Duwamish River
+2004,042,Michigan W,320000.00,1,Duwamish River
+2004,045,Henderson,60000.00,1,Lake Washington
+2004,048b,North Beach Inlet,2490000.00,6,Puget Sound
+2004,056,Murray,560000.00,5,Puget Sound
+2004,057,Barton,1260000.00,4,Puget Sound
+2004,27a-1,Denny Way Local,42620000.00,22,Elliott Bay/Puget Sound
+2004,27a-2,Denny Way Lake Union,143800000.00,26,Elliott Bay/Puget Sound
+2004,27a-3,Interbay,131420000.00,16,Elliott Bay/Puget Sound
+2005,003,Ballard,30000.00,1,Lake Washington Ship Canal
+2005,004,11th Ave. NW,3320000.00,11,Lake Washington Ship Canal
+2005,006,Magnolia S,43200000.00,26,Elliott Bay/Puget Sound
+2005,008,3rd Ave. W,6780000.00,5,Lake Washington Ship Canal
+2005,009,Dexter,4263328.00,12,Lake Union
+2005,013,MLK Jr. Way,9700000.00,4,Lake Washington
+2005,014,Montlake,11860000.00,6,Lake Washington Ship Canal
+2005,015,University,21400000.00,3,Lake Washington Ship Canal
+2005,028,King Street,21250000.00,20,Elliott Bay/Puget Sound
+2005,029,Kingdome,27240000.00,5,Elliott Bay/Puget Sound
+2005,030,Lander St.,57550000.00,8,Duwamish River/East Waterway
+2005,031a,Hanford @ Rainier,710000.00,2,Duwamish River/East Waterway
+2005,032,Hanford #2,91330000.00,15,Duwamish River/East Waterway
+2005,034,Duwamish E,4950000.00,2,Duwamish River
+2005,035,Duwamish W,230000.00,1,Duwamish River
+2005,036,Chelan,1260000.00,2,Duwamish River/West Waterway
+2005,037,Harbor Ave.,2420000.00,3,Duwamish River/West Waterway
+2005,038,Terminal 115,1840000.00,2,Duwamish River
+2005,039,Michigan St.,6870000.00,5,Duwamish River
+2005,041,Brandon St.,26530000.00,27,Duwamish River
+2005,042,Michigan W,700000.00,3,Duwamish River
+2005,048a,North Beach Wet,410000.00,3,Puget Sound
+2005,048b,North Beach Inlet,840000.00,10,Puget Sound
+2005,054,63rd Ave,2310000.00,1,Puget Sound
+2005,056,Murray,8340000.00,10,Puget Sound
+2005,057,Barton,1010000.00,5,Puget Sound
+2005,27a-1,Denny Way Local,21530000.00,13,Elliott Bay/Puget Sound
+2005,27a-2,Denny Way Lake Union,76930000.00,12,Elliott Bay/Puget Sound
+2005,27a-3,Interbay,59320000.00,7,Elliott Bay/Puget Sound
+2006,003,Ballard,525295.00,5,Lake Washington Ship Canal
+2006,004,11th Ave. NW,14955363.00,22,Lake Washington Ship Canal
+2006,006,Magnolia S,88923116.00,30,Elliott Bay/Puget Sound
+2006,008,3rd Ave. W,6663745.00,13,Lake Washington Ship Canal
+2006,009,Dexter,11002559.00,20,Lake Union
+2006,012,Belvoir,148476.00,1,Lake Washington
+2006,015,University,93950237.00,12,Lake Washington Ship Canal
+2006,027a,Denny RS,57562597.00,7,Elliott Bay/Puget Sound
+2006,028,King Street,44485390.00,27,Elliott Bay/Puget Sound
+2006,029,Kingdome,17595650.00,4,Elliott Bay/Puget Sound
+2006,030,Lander St.,185901103.00,28,Duwamish River/East Waterway
+2006,031a,Hanford @ Rainier,36100123.00,16,Duwamish River/East Waterway
+2006,032,Hanford #2,175122187.00,26,Duwamish River/East Waterway
+2006,036,Chelan,1582486.00,5,Duwamish River/West Waterway
+2006,037,Harbor Ave.,18844345.00,5,Duwamish River/West Waterway
+2006,038,Terminal 115,7067165.00,7,Duwamish River
+2006,039,Michigan St.,9140298.00,13,Duwamish River
+2006,041,Brandon St.,4370000.00,11,Duwamish River
+2006,042,Michigan W,3369607.00,8,Duwamish River
+2006,044b,Henderson/MLK,4830000.00,1,Duwamish River
+2006,048a,North Beach Wet,829243.00,13,Puget Sound
+2006,048b,North Beach Inlet,748238.00,15,Puget Sound
+2006,051,Alki,21930000.00,1,Puget Sound
+2006,053,53rd Ave. SW,36804.00,2,Elliott Bay/Puget Sound
+2006,055,Alaska St. SW,55114.00,1,Puget Sound
+2006,056,Murray,20487240.00,10,Puget Sound
+2006,057,Barton,25308105.00,11,Puget Sound
+2006,27a-1,Denny Way Local,170000.00,3,Elliott Bay/Puget Sound
+2006,27a-2,Denny Way Lake Union,30000.00,2,Elliott Bay/Puget Sound
+2007,003,Ballard,910537.00,2,Lake Washington Ship Canal
+2007,004,11th Ave. NW,23489435.00,10,Lake Washington Ship Canal
+2007,006,Magnolia S,56444667.00,21,Elliott Bay/Puget Sound
+2007,007,Canal St.,1019018.00,1,Lake Washington Ship Canal
+2007,008,3rd Ave. W,42074064.00,6,Lake Washington Ship Canal
+2007,009,Dexter,28999995.00,9,Lake Union
+2007,012,Belvoir,4089303.00,1,Lake Washington
+2007,015,University,198223235.00,5,Lake Washington Ship Canal
+2007,027a,Denny RS,29065200.00,1,Elliott Bay/Puget Sound
+2007,027b,Elliott West,349920000.00,3,Elliott Bay/Puget Sound
+2007,028,King Street,25375911.00,7,Elliott Bay/Puget Sound
+2007,029,Kingdome,28557621.00,5,Elliott Bay/Puget Sound
+2007,030,Lander St.,120537576.00,8,Duwamish River/East Waterway
+2007,031a,Hanford @ Rainier,9995206.00,4,Duwamish River/East Waterway
+2007,032,Hanford #2,65598493.00,12,Duwamish River/East Waterway
+2007,034,Duwamish E,10096325.00,1,Duwamish River
+2007,035,Duwamish W,6268539.00,1,Duwamish River
+2007,036,Chelan,4505684.00,2,Duwamish River/West Waterway
+2007,037,Harbor Ave.,28053234.00,2,Duwamish River/West Waterway
+2007,038,Terminal 115,5364475.00,4,Duwamish River
+2007,039,Michigan St.,98299924.00,5,Duwamish River
+2007,042,Michigan W,3186749.00,4,Duwamish River
+2007,044b,Henderson/MLK,19800000.00,1,Duwamish River
+2007,046,Carkeek,35630000.00,1,Puget Sound
+2007,048a,North Beach Wet,7327645.00,4,Puget Sound
+2007,048b,North Beach Inlet,576388.00,6,Puget Sound
+2007,051,Alki,77800000.00,1,Puget Sound
+2007,053,53rd Ave. SW,1274529.00,1,Elliott Bay/Puget Sound
+2007,055,Alaska St. SW,2285.00,1,Puget Sound
+2007,056,Murray,107410188.00,4,Puget Sound
+2007,057,Barton,12620361.00,3,Puget Sound
+2008,003,Ballard,32518.00,1,Lake Washington Ship Canal
+2008,004,11th Ave. NW,903055.00,7,Lake Washington Ship Canal
+2008,006,Magnolia S,17435792.00,26,Elliott Bay/Puget Sound
+2008,008,3rd Ave. W,1743583.00,3,Lake Washington Ship Canal
+2008,009,Dexter,3598264.00,3,Lake Union
+2008,014,Montlake,407251.00,1,Lake Washington Ship Canal
+2008,015,University,6545240.00,3,Lake Washington Ship Canal
+2008,027a,Denny RS,81495.00,2,Elliott Bay/Puget Sound
+2008,027b,Elliott West,2960000.00,1,Elliott Bay/Puget Sound
+2008,028,King Street,815653.00,3,Elliott Bay/Puget Sound
+2008,029,Kingdome,229293.00,1,Elliott Bay/Puget Sound
+2008,030,Lander St.,33623696.00,6,Duwamish River/East Waterway
+2008,031a,Hanford @ Rainier,3254230.00,6,Duwamish River/East Waterway
+2008,032,Hanford #2,23939992.00,8,Duwamish River/East Waterway
+2008,039,Michigan St.,105226.00,3,Duwamish River
+2008,041,Brandon St.,1898700.00,3,Duwamish River
+2008,048a,North Beach Wet,6530.00,4,Puget Sound
+2008,048b,North Beach Inlet,112078.00,3,Puget Sound
+2008,053,53rd Ave. SW,99965.00,1,Elliott Bay/Puget Sound
+2008,056,Murray,10311939.00,3,Puget Sound
+2008,057,Barton,779492.00,2,Puget Sound
+2009,003,Ballard,660812.00,8,Lake Washington Ship Canal
+2009,004,11th Ave. NW,8914906.00,16,Lake Washington Ship Canal
+2009,006,Magnolia S,6061884.00,25,Elliott Bay/Puget Sound
+2009,007,Canal St.,418355.00,1,Lake Washington Ship Canal
+2009,008,3rd Ave. W,10578307.00,9,Lake Washington Ship Canal
+2009,009,Dexter,8124651.00,11,Lake Union
+2009,014,Montlake,8716113.00,3,Lake Washington Ship Canal
+2009,015,University,61898794.00,9,Lake Washington Ship Canal
+2009,027a,Denny RS,953306.00,4,Elliott Bay/Puget Sound
+2009,028,King Street,56238166.00,15,Elliott Bay/Puget Sound
+2009,029,Kingdome,3544686.00,8,Elliott Bay/Puget Sound
+2009,030,Lander St.,355927868.00,19,Duwamish River/East Waterway
+2009,031a,Hanford @ Rainier,42011528.00,14,Duwamish River/East Waterway
+2009,032,Hanford #2,36341949.00,17,Duwamish River/East Waterway
+2009,038,Terminal 115,1146469.00,3,Duwamish River
+2009,039,Michigan St.,12434895.00,10,Duwamish River
+2009,041,Brandon St.,24149925.00,16,Duwamish River
+2009,042,Michigan W,474681.00,8,Duwamish River
+2009,048a,North Beach Wet,283130.00,14,Puget Sound
+2009,048b,North Beach Inlet,682846.00,13,Puget Sound
+2009,056,Murray,50497793.00,11,Puget Sound
+2009,057,Barton,157392.00,2,Puget Sound
+2010,003,Ballard,1433199.00,6,Lake Washington Ship Canal
+2010,004,11th Ave. NW,13179721.00,19,Lake Washington Ship Canal
+2010,006,Magnolia S,12250169.00,38,Elliott Bay/Puget Sound
+2010,007,Canal St.,1123622.00,1,Lake Washington Ship Canal
+2010,008,3rd Ave. W,25025932.00,8,Lake Washington Ship Canal
+2010,009,Dexter,15109389.00,13,Lake Union
+2010,012,Belvoir,4778145.00,2,Lake Washington
+2010,014,Montlake,65427370.00,10,Lake Washington Ship Canal
+2010,015,University,135381902.00,8,Lake Washington Ship Canal
+2010,018,Matthews Park,6600000.00,1,Lake Washington
+2010,027a,Denny RS,11125.00,2,Elliott Bay/Puget Sound
+2010,028,King Street,32775036.00,18,Elliott Bay/Puget Sound
+2010,029,Kingdome,9991516.00,6,Elliott Bay/Puget Sound
+2010,030,Lander St.,502565171.00,17,Duwamish River/East Waterway
+2010,031a,Hanford @ Rainier,76674809.00,13,Duwamish River/East Waterway
+2010,031c,Bayview North,6624140.00,5,Duwamish River/East Waterway
+2010,032,Hanford #2,138189416.00,18,Duwamish River/East Waterway
+2010,034,Duwamish E,6067408.00,1,Duwamish River
+2010,035,Duwamish W,35911.00,1,Duwamish River
+2010,036,Chelan,13211184.00,3,Duwamish River/West Waterway
+2010,037,Harbor Ave.,21288198.00,1,Duwamish River/West Waterway
+2010,038,Terminal 115,3900369.00,3,Duwamish River
+2010,039,Michigan St.,126186674.00,12,Duwamish River
+2010,040,8th Ave./W Marginal Way,18.00,1,Duwamish River
+2010,041,Brandon St.,38715418.00,11,Duwamish River
+2010,042,Michigan W,2664881.00,11,Duwamish River
+2010,048a,North Beach Wet,163806.00,10,Puget Sound
+2010,048b,North Beach Inlet,3902200.00,6,Puget Sound
+2010,054,63rd Ave,4627555.00,1,Puget Sound
+2010,055,Alaska St. SW,23495.00,1,Puget Sound
+2010,056,Murray,54917734.00,9,Puget Sound
+2010,057,Barton,965905.00,4,Puget Sound
+2011,003,Ballard,1118148.00,7,Lake Washington Ship Canal
+2011,004,11th Ave. NW,8548291.00,16,Lake Washington Ship Canal
+2011,006,Magnolia S,8840437.00,22,Elliott Bay/Puget Sound
+2011,008,3rd Ave. W,5795081.00,7,Lake Washington Ship Canal
+2011,009,Dexter,967316.00,8,Lake Union
+2011,014,Montlake,22015836.00,8,Lake Washington Ship Canal
+2011,015,University,48815940.00,6,Lake Washington Ship Canal
+2011,027a,Denny RS,50613.00,2,Elliott Bay/Puget Sound
+2011,028,King Street,16053502.00,15,Elliott Bay/Puget Sound
+2011,029,Kingdome,418810.00,2,Elliott Bay/Puget Sound
+2011,030,Lander St.,223304825.00,15,Duwamish River/East Waterway
+2011,031a,Hanford @ Rainier,25588985.00,13,Duwamish River/East Waterway
+2011,031c,Bayview North,310862.00,2,Duwamish River/East Waterway
+2011,032,Hanford #2,215148888.00,15,Duwamish River/East Waterway
+2011,036,Chelan,7330397.00,4,Duwamish River/West Waterway
+2011,037,Harbor Ave.,5961131.00,1,Duwamish River/West Waterway
+2011,039,Michigan St.,32703434.00,14,Duwamish River
+2011,041,Brandon St.,9821970.00,7,Duwamish River
+2011,042,Michigan W,684735.00,3,Duwamish River
+2011,048a,North Beach Wet,22589128.00,15,Puget Sound
+2011,048b,North Beach Inlet,2887006.00,8,Puget Sound
+2011,054,63rd Ave,1554706.00,1,Puget Sound
+2011,055,Alaska St. SW,19148.00,1,Puget Sound
+2011,056,Murray,5761039.00,3,Puget Sound
+2011,057,Barton,129652.00,1,Puget Sound
+2012,003,Ballard,1668118.00,13,Lake Washington Ship Canal
+2012,004,11th Ave. NW,18486212.00,20,Lake Washington Ship Canal
+2012,006,Magnolia S,9755097.00,36,Elliott Bay/Puget Sound
+2012,007,Canal St.,18819.00,1,Lake Washington Ship Canal
+2012,008,3rd Ave. W,4381473.00,13,Lake Washington Ship Canal
+2012,009,Dexter,9146016.00,13,Lake Union
+2012,012,Belvoir,864797.00,1,Lake Washington
+2012,014,Montlake,51843559.00,18,Lake Washington Ship Canal
+2012,015,University,105058388.00,13,Lake Washington Ship Canal
+2012,027a,Denny RS,580.00,1,Elliott Bay/Puget Sound
+2012,028,King Street,7865932.00,13,Elliott Bay/Puget Sound
+2012,029,Kingdome,47429418.00,11,Elliott Bay/Puget Sound
+2012,030,Lander St.,524435439.00,25,Duwamish River/East Waterway
+2012,031a,Hanford @ Rainier,89941019.00,18,Duwamish River/East Waterway
+2012,031b,Bayview South,667100.00,1,Duwamish River/East Waterway
+2012,031c,Bayview North,4586194.00,7,Duwamish River/East Waterway
+2012,032,Hanford #2,333413251.00,23,Duwamish River/East Waterway
+2012,036,Chelan,12016886.00,13,Duwamish River/West Waterway
+2012,037,Harbor Ave.,16678543.00,3,Duwamish River/West Waterway
+2012,038,Terminal 115,1937500.00,1,Duwamish River
+2012,039,Michigan St.,75982142.00,16,Duwamish River
+2012,041,Brandon St.,47750378.00,12,Duwamish River
+2012,042,Michigan W,3390864.00,5,Duwamish River
+2012,048a,North Beach Wet,11208348.00,20,Puget Sound
+2012,048b,North Beach Inlet,4338033.00,13,Puget Sound
+2012,053,53rd Ave. SW,558004.00,1,Elliott Bay/Puget Sound
+2012,054,63rd Ave,11018376.00,3,Puget Sound
+2012,055,Alaska St. SW,8063.00,1,Puget Sound
+2012,056,Murray,8613011.00,5,Puget Sound
+2012,057,Barton,1985628.00,4,Puget Sound
+2013,003,Ballard,405929.00,6,Lake Washington Ship Canal
+2013,004,11th Ave. NW,6399085.00,12,Lake Washington Ship Canal
+2013,006,Magnolia S,3489482.00,16,Elliott Bay/Puget Sound
+2013,008,3rd Ave. W,1294841.00,5,Lake Washington Ship Canal
+2013,009,Dexter  ,5132144.00,6,Lake Union
+2013,012,Belvoir,76123.00,1,Lake Washington
+2013,014,Montlake,24515468.00,7,Lake Washington Ship Canal
+2013,015,University  ,34655740.00,4,Lake Washington Ship Canal
+2013,027a,Denny RS,14989682.00,2,Elliott Bay/Puget Sound
+2013,028,King Street,726875.00,2,Elliott Bay/Puget Sound
+2013,029,Kingdome,30786772.00,6,Elliott Bay/Puget Sound
+2013,030,Lander St.,79675677.00,8,Duwamish River/East Waterway
+2013,031a,Hanford @ Rainier,29135326.00,10,Duwamish River/East Waterway
+2013,031b,Bayview South,209581.00,2,Duwamish River/East Waterway
+2013,031c,Bayview North,4012781.00,4,Duwamish River/East Waterway
+2013,032,Hanford #2,104197235.00,9,Duwamish River/East Waterway
+2013,035,Duwamish W,294.00,1,Duwamish River
+2013,036,Chelan,2521298.00,4,Duwamish River/West Waterway
+2013,037,Harbor Ave.,2289845.00,2,Duwamish River/West Waterway
+2013,038,Terminal 115,31840.00,1,Duwamish River
+2013,039,Michigan St.,22297654.00,8,Duwamish River
+2013,041,Brandon St. ,14196866.00,7,Duwamish River
+2013,042,Michigan W,869516.00,2,Duwamish River
+2013,048a,North Beach Wet,389327.00,13,Puget Sound
+2013,048b,North Beach Inlet,463023.00,3,Puget Sound
+2013,054,63rd Ave,664057.00,2,Puget Sound
+2013,056,Murray,567568.00,4,Puget Sound
+2013,057,Barton  ,2216779.00,5,Puget Sound
